@@ -1,7 +1,7 @@
 ![MasterHead](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 <h1 align="center">Hi 👋, I'm Eehanee Hettiarachchi</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
-- 🌱 I’m currently learning **about Information Technology**
+- 🌱 I’m currently learning about Information Technology
 
 - 📫 How to reach me **vihigumie.hettiarachchi1999@gmail.com**
 
